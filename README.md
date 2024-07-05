@@ -11,6 +11,8 @@ Replace example@gmail.com with the address you want the mail to get sent from Re
 
 Replace example2@gmail.com with the address you want to receive the email
 
+To convert it to an excecutable , use the pyinstaller tool (pyinstaller main.py -w --onefile) 
+
 DO NOT USE IT AGAINST ANYONE
 
 ~etecnos
